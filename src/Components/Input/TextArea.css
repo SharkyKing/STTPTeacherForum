@@ -1,0 +1,14 @@
+.textarea {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    border: none;
+    height: 4rem;
+    resize: none;
+    background-color: #F2E7D5;
+    padding-left: 1rem;
+}
+
+.textarea:focus {
+    border: none;
+    background-color: rgb(240, 240, 240);
+}
